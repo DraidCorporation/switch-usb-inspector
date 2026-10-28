@@ -80,7 +80,7 @@ Precompiled binaries will be published on the GitHub Releases page.
 
 Linux release packages are intended to provide a convenient way to run the program without compiling the source code manually.
 
-1. Open the [Releases page](https://github.com/YOUR_USERNAME/switch-usb-inspector/releases).
+1. Open the [Releases page](https://github.com/DraidCorporation/switch-usb-inspector/releases).
 2. Download the package matching your operating system and architecture.
 3. Extract the archive.
 4. Run the executable according to the instructions included with the release.
